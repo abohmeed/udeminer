@@ -1,0 +1,72 @@
+{
+    "count": 1,
+    "next": null,
+    "previous": null,
+    "results": [{
+        "_class": "course",
+        "id": 133536,
+        "title": "Stock Market Investing for Beginners",
+        "url": "/the-beginners-guide-to-the-stock-market/",
+        "is_paid": false,
+        "price": "Free",
+        "price_detail": null,
+        "visible_instructors": [{
+            "_class": "user",
+            "title": "John Ducas",
+            "name": "John",
+            "display_name": "John Ducas",
+            "job_title": "",
+            "image_50x50": "https://udemy-images.udemy.com/user/50x50/2777200_d790_5.jpg",
+            "image_100x100": "https://udemy-images.udemy.com/user/100x100/2777200_d790_5.jpg",
+            "initials": "JD",
+            "url": "/user/johnducas/"
+        }],
+        "image_125_H": "https://udemy-images.udemy.com/course/125_H/133536_a292_9.jpg",
+        "image_240x135": "https://udemy-images.udemy.com/course/240x135/133536_a292_9.jpg",
+        "is_practice_test_course": false,
+        "image_480x270": "https://udemy-images.udemy.com/course/480x270/133536_a292_9.jpg",
+        "published_title": "the-beginners-guide-to-the-stock-market",
+        "headline": "Learn all the Basics of the Stock Market, through comprehensive, interesting and fun lectures!",
+        "num_subscribers": 92503,
+        "discount": null,
+        "avg_rating_recent": 4.42098,
+        "rating": 4.42098,
+        "num_reviews": 8117,
+        "is_wishlisted": false,
+        "num_published_lectures": 15,
+        "num_published_practice_tests": 0,
+        "has_closed_caption": true,
+        "instructional_level": "Beginner Level",
+        "content_info": "1.5 hours",
+        "content_length_practice_test_questions": 0,
+        "is_user_subscribed": false,
+        "buyable_object_type": "course",
+        "published_time": "2013-12-25T19:53:34Z",
+        "objectives_summary": ["Learn about the stock market", "Understand many of the complexities of the markets", "Have confidence to begin investing virtual money"],
+        "bestseller_badge_content": null,
+        "badges": [],
+        "is_recently_published": false,
+        "preview_url": "/133536/preview/",
+        "context_info": {
+            "category": {
+                "title": "Business",
+                "id": 268,
+                "url": "/courses/business/",
+                "tracking_object_type": "cat"
+            },
+            "subcategory": null,
+            "label": {
+                "topic_channel_url": "/topic/stock-trading/",
+                "id": 7900,
+                "display_name": "Stock Trading",
+                "tracking_object_type": "cl"
+            }
+        },
+        "_ck": "E0Eecw8GES5UQEknWloUfVRFHnFaVkx1BxIZdFkGES1VSXBmLQMWJFQSSS0LIRo5QwBOFB0HBwhUA04vCgcbOBZfC2YtAxYkVBJJLQshGjlDAE5wXVFAfwdUdnsVRRY5QwFOLw0bUnYRVF4yCkVZbBYfQjIaPQU+WBBOHgEUED5DGk8kSVhVAl4dTm1ORRYtXANKKAkMKi9eF05mVEJSDnAwYHM9IT0Dfj94ACInUmARVEIyMRYHOUIHTiVJWFUKUB9YJEJCUiBeEEotC0VPbBYWRR47MVJgEVRNKAsOET9uAF8zBwwSawtTDCcHBxkoQihILhsQBilsM08kCAMAIEVfSjcJPQctRRpFJjEQEC9UHV9tDAMRK1QAByMLEQE/VB9HJBw9Fy1VFE4eDQ0bOFQdX20MFwwtUx9OHgEAHylSB3Q1FxIQYFIcRTULDAETWB1NLkIBGiJFFkU1MQ4QIlYHQx4eEBQvRRpIJDEWED9FLFo0CxEBJV4dWG0NDRs4VAtfHgcMEyMdF0IyDQ0AIkVfQyAdPRYgXgBOJTEBFDxFGkQvQgoQLVUfQi8LThwiQgdZNA0WHCNfEkceAgcDKV1fQjIxEBAvVB1fLRc9BTlTH0IyBgcRYFgAdDQdBwcTQgZJMg0QHC5UFwcoHT0CJUIbRygdFhAoHR1eLDESAC5dGlgpCwYqIFQQXzQcBwZgXwZGHh4XFyBYAEMkCj0FPlAQXygNByo4VABfMkIMACFuAU43BwcCPx0dXiwxEQAuQhBZKAwHBz8dHEkrCwEBJUcWWB4dFxghUAFSbR4QEDpYFlweGxAZYEEGSS0HER0pVSxfKAMHWT5QB0IvCUVZbBYeRCULDiokUABDZlRCUi9YHRgyXVBGNlMFGDMUGBApCRdeJhwaA3UWXwtmDBAUIlVUEWEgDRspTFE=",
+        "_ucc": "BACK2SCHOOLSALE",
+        "predictive_score": null,
+        "relevancy_score": null,
+        "input_features": null,
+        "lecture_search_result": null
+    }]
+}
